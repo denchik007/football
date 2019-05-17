@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Футбольная викторина</string>
+    <string name="true_name">Да, верно</string>
+    <string name="false_name">Нет, не верно</string>
+    <string name="next_quest">Следующий вопрос</string>
+
+
+    <string name="quest_1">Реал Мадрид в прошлом году выйграл ЛЧ?</string>
+    <string name="quest_2">Зенит выйграл АПЛ в этом сезоне?</string>
+    <string name="quest_3">Дзюба в победном матче оформил хет-трик?</string>
+    <string name="quest_4">Де лигт переходит в ФК Орел?</string>
+    <string name="quest_5">Навас основной голкипер Реала в следующем сезоне?</string>
+</resources>
