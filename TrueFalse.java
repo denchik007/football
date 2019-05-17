@@ -2,11 +2,11 @@ package com.example.messanger;
 
 public class TrueFalse {
     private int question;
-    private boolean TrueQuestion;
+    private boolean isTrueQuestion;
 
     public TrueFalse(int question, boolean isTrueQuestion) {
         this.question = question;
-        this.TrueQuestion = isTrueQuestion;
+        this.isTrueQuestion = isTrueQuestion;
     }
 
     public int getQuestion() {
@@ -14,7 +14,7 @@ public class TrueFalse {
     }
 
     public boolean isTrueQuestion() {
-        return TrueQuestion;
+        return isTrueQuestion;
     }
 
 }
